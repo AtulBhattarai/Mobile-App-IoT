@@ -54,7 +54,7 @@ export default function FeedbackScreen({ navigation }) {
 
       <View style={styles.scrollWrapper}>
         <ScrollView contentContainerStyle={styles.scrollContainer}>
-          <Text style={styles.header}>Contact Us</Text>
+          <Text style={styles.header}>Feedback Form</Text>
 
           <View style={styles.formWrapper}>
             <Text style={styles.label}>Full Name</Text>
